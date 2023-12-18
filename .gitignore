@@ -1,0 +1,5 @@
+#ignore all .txt/.log/.py files
+*.log
+
+# ignore all files in any directory nammed temp
+temp/ 
