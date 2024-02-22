@@ -1,6 +1,6 @@
 # Markdown Language
 
-## World 1
+## Head 1
 
 ### Styles
 
