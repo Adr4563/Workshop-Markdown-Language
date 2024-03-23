@@ -102,7 +102,15 @@ Points:
 - Brown.
 
 ### Code block
-Output:
+
+```
+IMPORTANT: Delete => ""
+"```"
+def greet():
+    print("Hello, World!")
+"```"
+```
+Output: 
 ```
 def greet():
     print("Hello, World!")
