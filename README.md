@@ -15,7 +15,7 @@ Markdown is a versatile tool for various purposes
 
 
 
-## Headings
+# Headings
 
 ```
 # H1: Hello-World
@@ -27,7 +27,7 @@ Output:
 ## H2: Animals
 ### H3: Plants
 
-### Styles
+# Styles
 
 ```
 Bold: **Earth is only the fifth**
@@ -45,7 +45,7 @@ strikethrough text: ~~largest~~
 <br/>
 Bold & Italic: ***solar system***
 
-### Quotes
+# Quotes
 
 ```
 >Earth isn't actually round.
@@ -78,7 +78,7 @@ Output:
 >
 >>>Earth's magnetic pole is creeping westward.
 
-### Bullet point
+# Bullet point
 ```
 Numeric:
 1. Red
@@ -101,7 +101,7 @@ Points:
   > Hello
 - Brown.
 
-### Code block
+# Code block
 
 ```
 IMPORTANT: Delete => ""
@@ -115,7 +115,7 @@ Output:
 def greet():
     print("Hello, World!")
 ```
-### Link and images
+# Link and images
 ```
 Google : [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
 <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
