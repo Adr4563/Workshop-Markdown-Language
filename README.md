@@ -1,6 +1,6 @@
 # Markdown Language
 
-Markdown is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and images. Markdown is converted to HTML for web display, making it efficient and straightforward for writing content online.
+Markdown is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and images. Markdown is converted to **HTML** for web display, making it efficient and straightforward for writing content online.
 
 Markdown is a versatile tool for various purposes
 1. **README Files:** Write clear and organized README files for your projects on platforms like GitHub using Markdown. Include headings, lists, code blocks, and links to provide comprehensive documentation.
