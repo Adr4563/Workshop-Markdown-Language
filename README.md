@@ -14,20 +14,18 @@ Markdown is a versatile tool for various purposes
 5. **Note-taking:** Markdown simplifies personal note-taking and information organization. Many note-taking applications support Markdown, allowing you to create structured and formatted notes effortlessly.
 
 
+# Basic MD Syntax
 
-# Headings
-
+## Headings
+It's the most common that used 
 ```
-# H1: Hello-World
-## H2: Animals
-### H3: Plants
+# H1: MarkDown Language 
+## H2: Basic & Advance Syntax
+### H3: References
+#### H4: Anexos
 ```
-Output: 
-# H1: Hello-World
-## H2: Animals
-### H3: Plants
 
-# Styles
+## Emphasized Text
 
 ```
 Bold: **Earth is only the fifth**
@@ -35,94 +33,54 @@ Italic: *While*
 strikethrough text: ~~largest~~
 Bold & Italic: ***solar system***
 ```
-Output: 
-<br/>
-Bold: **Earth is only the fifth**
-<br/>
-Italic: *While*
-<br/>
-strikethrough text: ~~largest~~
-<br/>
-Bold & Italic: ***solar system***
 
 # Quotes
 
 ```
 >Earth isn't actually round.
 >
->Coral reefs are Earth's largest living structure.
->
->Earth has a squishy interior.
->
->Antarctica is home to the largest ice sheet on Earth.
->
->The Moon is drifting away from Earth.
->
->Atacama is the driest place on Earth.
->
 >>>Earth's magnetic pole is creeping westward.
-
 ```
-Output: 
->Earth isn't actually round.
->
->Coral reefs are Earth's largest living structure.
->
->Earth has a squishy interior.
->
->Antarctica is home to the largest ice sheet on Earth.
->
->The Moon is drifting away from Earth.
->
->Atacama is the driest place on Earth.
->
->>>Earth's magnetic pole is creeping westward.
-
-# Bullet point
+# List
 ```
-Numeric:
-1. Red
-2. Green
-3. Blue
-
-Points:
-- Yellow.
-  > Hello
-- Brown.
+Numbered           Bulletd
+1. Item 1          - Item 1            * Item 1
+2. Item 2          - Item 2            * Item 2
+3. Item 3          - Item 3            * Item 3
 ```
-Output: 
-Numeric:
-1. Red
-2. Green
-3. Blue
-
-Points:
-- Yellow.
-  > Hello
-- Brown.
 
 # Code block
 
 ```
-IMPORTANT: Delete => ""
-"```"
+-```
 def greet():
     print("Hello, World!")
-"```"
+-```
 ```
-Output: 
-```
-def greet():
-    print("Hello, World!")
-```
+
+
+
+
 # Link and images
 ```
 Google : [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
 <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
 ```
-Output:
 Google : [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
-<br/>
+
+# Images
+```
+<img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
+![alt text](image.jpg)
+```
 <img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
+
+# Tables
+
+| Col 1 header  | Col 2 header  |
+| ------------- | ------------- |
+| col 1 row 1   | col 2 row 1   |
+| col 1 row 2   | col 2 row 2   |
+
 
 
