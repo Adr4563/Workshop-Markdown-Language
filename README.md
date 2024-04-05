@@ -13,7 +13,7 @@ Markdown is a lightweight markup language commonly used for formatting text on o
 Now you will learn the Markdown syntax, as well as its structure and organization
 
 # Syntax
-### Headings and Paragraph
+## Headings and Paragraph
 
 It's built upon multiple layers to facilitate the organization and structuring of information. You can use from H1 until Hinfinite
 ```
@@ -29,7 +29,7 @@ Markdown interprets it as part of the same paragraph and not as a new one.
 
 It's important to add spaces between paragraphs to facilitate separation.
 ```
-### Emphasized Text
+## Text Styles
 
 The most important aspect of the paragraph is the styles, where you can emphasize key words in the documentation. For example:
 
@@ -50,7 +50,7 @@ Implementation of syntax styles
 | Bold & Italic | ***Item 4***       |
 
 
-### List and Quotes
+## List and Quotes
 Lists and quotes are essential elements in Markdown for organizing and emphasizing content. 
 ```
 Numbered           Bullet
@@ -72,7 +72,7 @@ Reference documentation
 > Google Reference.
 >> AWS Reference.
 
-### Code block
+## Code block
 
 Well, you now what is code block and why is so important in the documentation?
 
