@@ -4,6 +4,7 @@
   - [Introduction](#introduction)
   - [Syntax 🔡](#syntax-)
     - [Headings and Paragraph 📑](#headings-and-paragraph-)
+    - [Text Styles](#text-styles-)
     - [Text Styles ✍️](#text-styles-)
 ## Introduction
 
