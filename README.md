@@ -53,7 +53,7 @@ Implementation of syntax styles
 ## List and Quotes
 Lists and quotes are essential elements in Markdown for organizing and emphasizing content. 
 ```
-Numbered           Bullet
+Numbered           Hyphen              Points
 1. Item 1          - Item 1            * Item 1
 2. Item 2          - Item 2            * Item 2
 3. Item 3          - Item 3            * Item 3
