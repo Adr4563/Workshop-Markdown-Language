@@ -1,6 +1,8 @@
 <h1 align="center">Markdown Language 📝 </h1>
 
-* **Content**
+### Contents:
+  - [Categories](#categories)
+      - [Introduction](#introduction)
   * Introduction
   * Syntax
     * Headings and Paragraph
@@ -12,6 +14,8 @@
     * Links
     * Images
   * References
+
+# Categories
 
 ## Introduction
 
