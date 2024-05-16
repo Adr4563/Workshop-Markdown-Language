@@ -1,21 +1,17 @@
 <h1 align="center">Markdown Language 📝 </h1>
 
-### Contents:
-  - [Categories](#categories)
-      - [Introduction](#introduction)
-  * Introduction
-  * Syntax
-    * Headings and Paragraph
-    * Text Styles
-    * Toggle Code
-    * List and Quotes
-    * Code block
-    * Tables
-    * Links
-    * Images
-  * References
-
-# Categories
+### **Contents**
+  - [Introduction](#introduction)
+  - [Syntax](#syntax-)
+    - [Headings and Paragraph](#headings-and-paragraph-)
+    - [Text Styles](#text-styles)
+    - [Toggle Code](#toggle-code-)
+    - [List and Quotes](list-and-quotes-)
+    - [Code block](code-block-)
+    - [Tables](tables-)
+    - [Links](links-)
+    - [Images](images-)
+  - [References](references)
 
 ## Introduction
 
@@ -53,7 +49,6 @@ Markdown interprets it as part of the same paragraph and not as a new one.
 It's important to add spaces between paragraphs to facilitate separation.
 ```
 
-
 ## Text Styles ✍️
 
 The most important aspect of the paragraph is the styles, where you can emphasize key words in the documentation. For example:
@@ -73,8 +68,6 @@ Implementation of syntax styles
 | Italic        | *Item 2*           |
 | strikethrough | ~~Item 3~~         |
 | Bold & Italic | ***Item 4***       |
-
-
 
 ## Toggle Code
 
