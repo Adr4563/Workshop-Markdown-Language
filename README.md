@@ -1,21 +1,22 @@
-# Markdown Language
+# Markdown Language 📝
 
 Markdown is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
 
-* **Documentation:** Create well-structured documentation for your projects using Markdown. Outline features, usage instructions, and other relevant details to make your documentation easily understandable.
+* **Documentation** 📚: Create well-structured documentation for your projects using Markdown. Outline features, usage instructions, and other relevant details to make your documentation easily understandable.
 
-* **Websites and Blogs:** Format text content quickly on websites or blogs using Markdown. Many platforms support Markdown, enabling you to write articles, blog posts, and other content with simple syntax.
+* **Websites and Blogs** 💻: Format text content quickly on websites or blogs using Markdown. Many platforms support Markdown, enabling you to write articles, blog posts, and other content with simple syntax.
 
-* **Collaboration:** Use Markdown for effective collaboration and communication within development teams. Format messages, comments, and notes in project management tools, issue trackers, and chat applications.
+* **Collaboration** 🤝: Use Markdown for effective collaboration and communication within development teams. Format messages, comments, and notes in project management tools, issue trackers, and chat applications.
 
-* **Note-taking:** Markdown simplifies personal note-taking and information organization. Many note-taking applications support Markdown, allowing you to create structured and formatted notes effortlessly.
+* **Note-taking** 📒: Markdown simplifies personal note-taking and information organization. Many note-taking applications support Markdown, allowing you to create structured and formatted notes effortlessly.
 
 Now you will learn the Markdown syntax, as well as its structure and organization
 
-# Syntax
-## Headings and Paragraph
+# Syntax 🔡
+## Headings and Paragraph 📑
 
 It's built upon multiple layers to facilitate the organization and structuring of information. You can use from H1 until Hinfinite
+
 ```
 # H1: MarkDown Language 
 ## H2: Basic & Advance Syntax
@@ -29,7 +30,7 @@ Markdown interprets it as part of the same paragraph and not as a new one.
 
 It's important to add spaces between paragraphs to facilitate separation.
 ```
-## Text Styles
+## Text Styles ✍️
 
 The most important aspect of the paragraph is the styles, where you can emphasize key words in the documentation. For example:
 
@@ -50,8 +51,9 @@ Implementation of syntax styles
 | Bold & Italic | ***Item 4***       |
 
 
-## List and Quotes
+## List and Quotes 📝
 Lists and quotes are essential elements in Markdown for organizing and emphasizing content. 
+
 ```
 Numbered           Hyphen              Points
 1. Item 1          - Item 1            * Item 1
@@ -72,7 +74,7 @@ Reference documentation
 > Google Reference.
 >> AWS Reference.
 
-## Code block
+## Code block 💻
 
 Well, you now what is code block and why is so important in the documentation?
 
@@ -87,7 +89,7 @@ python3 -m venv .venv
 pip install -r requirements.txt
 -```
 ```
-## Tables
+## Tables 📊
 
 | Col 1 header  | Col 2 header  |
 | ------------- | ------------- |
@@ -95,21 +97,21 @@ pip install -r requirements.txt
 | col 1 row 2   | col 2 row 2   |
 
 
-## Links
+## Links 🔗
 ```
 Link Markdown Language: [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
 HTML: <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
 ```
 Github repository : [Adrian](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
 
-## Images 
+## Images 🖼️
 ```
 <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
 ![alt text](image.jpg)
 ```
 <img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
 
-# References
+# Reference 📚
 ## → [More Content about Markdown Language](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
