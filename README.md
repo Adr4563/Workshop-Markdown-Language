@@ -5,6 +5,7 @@
   * Syntax
     * Headings and Paragraph
     * Text Styles
+    * Toggle Code
     * List and Quotes
     * Code block
     * Tables
@@ -47,6 +48,8 @@ Markdown interprets it as part of the same paragraph and not as a new one.
 
 It's important to add spaces between paragraphs to facilitate separation.
 ```
+
+
 ## Text Styles ✍️
 
 The most important aspect of the paragraph is the styles, where you can emphasize key words in the documentation. For example:
@@ -66,6 +69,27 @@ Implementation of syntax styles
 | Italic        | *Item 2*           |
 | strikethrough | ~~Item 3~~         |
 | Bold & Italic | ***Item 4***       |
+
+
+
+## Toggle Code
+
+Is used to create a toggleable section in Markdown. It allows you to hide or show content with a click, providing a convenient way to organize and present information
+```
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
+```
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
 
 
 ## List and Quotes 📝
@@ -127,6 +151,7 @@ Github repository : [Adrian](https://github.com/Adrian4579/Hello-World/edit/mast
 ![alt text](image.jpg)
 ```
 <img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
+
 
 # Reference 📚
 ## → [More Content about Markdown Language](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
