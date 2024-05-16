@@ -87,31 +87,29 @@ python3 -m venv .venv
 pip install -r requirements.txt
 -```
 ```
----------------------------------------------------------------------------------------------------------------------
-# Advanced Syntax
-
-### Link and images
-```
-Google : [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
-<img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
-```
-Google : [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
-
-```
-<img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
-![alt text](image.jpg)
-```
-<img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
-
-### Tables
+## Tables
 
 | Col 1 header  | Col 2 header  |
 | ------------- | ------------- |
 | col 1 row 1   | col 2 row 1   |
 | col 1 row 2   | col 2 row 2   |
 
-### More Content about Markdown Language
-If y
-[Awesome GitHub Profile README ](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+## Links
+```
+Link Markdown Language: [Repositorio](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
+HTML: <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
+```
+Github repository : [Adrian](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
+
+## Images 
+```
+<img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
+![alt text](image.jpg)
+```
+<img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
+
+
+## [More Content about Markdown Language](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
