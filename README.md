@@ -1,5 +1,19 @@
 <h1 align="center">Markdown Language 📝 </h1>
 
+* **Content**
+  * Introduction
+  * Syntax
+    * Headings and Paragraph
+    * Text Styles
+    * List and Quotes
+    * Code block
+    * Tables
+    * Links
+    * Images
+  * References
+
+## Introduction
+
 **Markdown** is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
 
 ![image](https://github.com/Adr4563/Workshop-Markdown-Language/assets/135796378/b68a6375-1748-40a6-8a30-6cf146d31b0a)
