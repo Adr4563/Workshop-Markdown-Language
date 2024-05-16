@@ -2,17 +2,9 @@
 
 ### **Contents**
   - [Introduction](#introduction)
-  - [Syntax](#syntax-)
-    - [Headings and Paragraph](#headings-and-paragraph-)
+  - [Syntax 🔡](#syntax-)
+    - [Headings and Paragraph 📑](#headings-and-paragraph-)
     - [Text Styles ✍️](#text-styles-)
-    - [Toggle Code](#toggle-code-)
-    - [List and Quotes](list-and-quotes-)
-    - [Code block](code-block-)
-    - [Tables](tables-)
-    - [Links](links-)
-    - [Images](images-)
-  - [References](references)
-
 ## Introduction
 
 **Markdown** is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
