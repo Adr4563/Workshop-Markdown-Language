@@ -1,11 +1,11 @@
 <h1 align="center">Markdown Language 📝 </h1>
 
 ### **Contents**
-  - [Introduction](#introduction)
+  - [Introduction 📖](#introduction-)
   - [Syntax 🔡](#syntax-)
     - [Headings and Paragraph 📑](#headings-and-paragraph-)
     - [Text Styles ✍️](#text-styles-)
-    - [Toggle Code](#toggle-code)
+    - [Toggle Code 🔽](#toggle-code-)
     - [List and Quotes 📝](#list-and-quotes-)
     - [Code block 💻](#code-block-)
     - [Tables 📊](#tables-)
@@ -13,7 +13,7 @@
     - [Images 🖼️](#images-)
   - [More Reference 📚](#more-reference-)
 
-## Introduction
+## Introduction 📖
 
 **Markdown** is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
 
@@ -70,7 +70,7 @@ Implementation of syntax styles
 | strikethrough | ~~Item 3~~         |
 | Bold & Italic | ***Item 4***       |
 
-## Toggle Code
+## Toggle Code 🔽
 
 Is used to create a toggleable section in Markdown. It allows you to hide or show content with a click, providing a convenient way to organize and present information
 ```
@@ -144,12 +144,12 @@ HTML: <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e15386647261
 Github repository : [Adrian](https://github.com/Adrian4579/Hello-World/edit/master/README.md)
 
 ## Images 🖼️
+
 ```
 <img src="https://concepto.de/wp-content/uploads/2018/10/URL1-e1538664726127.jpg" alt="pinguino"/>
 ![alt text](image.jpg)
 ```
 <img src="https://www.shutterstock.com/image-vector/realistic-shrimp-isolated-detailed-black-260nw-1961969428.jpg" alt="Shrimp"/>
-
 
 # More Reference 📚
 ## → [More Content about Markdown Language](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
