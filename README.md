@@ -1,11 +1,9 @@
-# Markdown Language 📝
+<h1 align="center">Markdown Language 📝 </h1>
 
+**Markdown** is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
 
+![image](https://github.com/Adr4563/Workshop-Markdown-Language/assets/135796378/b68a6375-1748-40a6-8a30-6cf146d31b0a)
 
-
-
-
-Markdown is a lightweight markup language commonly used for formatting text on online platforms. It uses simple and intuitive syntax to add basic formatting like headers, lists, links, and other advanced tools. Markdown is also converted into HTML for web display, making it efficient and straightforward for writing content online. This is composed in **Readme File**, where you can write clear and organized README files for your projects on platforms like GitHub using Markdown to provide comprehensive documentation for websites, blogs, collaboration between users, and note-taking.
 
 * **Documentation** 📚: Create well-structured documentation for your projects using Markdown. Outline features, usage instructions, and other relevant details to make your documentation easily understandable.
 
@@ -118,5 +116,5 @@ Github repository : [Adrian](https://github.com/Adrian4579/Hello-World/edit/mast
 
 # Reference 📚
 ## → [More Content about Markdown Language](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
+## → [Badges in Github](https://github.com/Envoy-VC/awesome-badges)
 
